@@ -4,8 +4,9 @@ Payment gateway integration testing. This is just a demo donation collection app
 
 No informations needed. Just pay and go...
 
-Author [@Almas-Ali](https://github.com/Almas-Ali)
-Repository [stripe-django-donation](https://github.com/Almas-Ali/stripe-django-donation)
+Author - [@Almas-Ali](https://github.com/Almas-Ali)
+
+Repository - [stripe-django-donation](https://github.com/Almas-Ali/stripe-django-donation)
 
 ## Installation
 
